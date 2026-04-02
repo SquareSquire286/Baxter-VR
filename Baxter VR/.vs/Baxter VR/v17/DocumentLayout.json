@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sauer\\Desktop\\Baxter VR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF1E11B-9C1B-92C4-6DF4-3118563722E3}|Assembly-CSharp.csproj|c:\\users\\sauer\\desktop\\baxter vr\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF1E11B-9C1B-92C4-6DF4-3118563722E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3416E0-E3CF-3B11-58F8-5BA99BE00A11}|Oculus.VR.csproj|C:\\Users\\sauer\\Desktop\\Baxter VR\\assets\\oculus\\vr\\scripts\\ovrruntimesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3416E0-E3CF-3B11-58F8-5BA99BE00A11}|Oculus.VR.csproj|solutionrelative:assets\\oculus\\vr\\scripts\\ovrruntimesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3416E0-E3CF-3B11-58F8-5BA99BE00A11}|Oculus.VR.csproj|C:\\Users\\sauer\\Desktop\\Baxter VR\\assets\\oculus\\vr\\scripts\\ovrtelemetry\\ovrtelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3416E0-E3CF-3B11-58F8-5BA99BE00A11}|Oculus.VR.csproj|solutionrelative:assets\\oculus\\vr\\scripts\\ovrtelemetry\\ovrtelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBDAC9C-D0D3-E530-A940-AD84CCDB8052}|Oculus.VR.Editor.csproj|C:\\Users\\sauer\\Desktop\\Baxter VR\\assets\\oculus\\vr\\editor\\settings\\ovrruntimesettingsbuildprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBDAC9C-D0D3-E530-A940-AD84CCDB8052}|Oculus.VR.Editor.csproj|solutionrelative:assets\\oculus\\vr\\editor\\settings\\ovrruntimesettingsbuildprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3416E0-E3CF-3B11-58F8-5BA99BE00A11}|Oculus.VR.csproj|C:\\Users\\sauer\\Desktop\\Baxter VR\\assets\\oculus\\vr\\scripts\\ovrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3416E0-E3CF-3B11-58F8-5BA99BE00A11}|Oculus.VR.csproj|solutionrelative:assets\\oculus\\vr\\scripts\\ovrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF1E11B-9C1B-92C4-6DF4-3118563722E3}|Assembly-CSharp.csproj|C:\\Users\\sauer\\Desktop\\Baxter VR\\assets\\scripts\\grabber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF1E11B-9C1B-92C4-6DF4-3118563722E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grabber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\sauer\\Desktop\\Baxter VR\\Assets\\Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
+              "ToolTip": "C:\\Users\\sauer\\Desktop\\Baxter VR\\Assets\\Scripts\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:07:39.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OVRRuntimeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\sauer\\Desktop\\Baxter VR\\Assets\\Oculus\\VR\\Scripts\\OVRRuntimeSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Oculus\\VR\\Scripts\\OVRRuntimeSettings.cs",
+              "ToolTip": "C:\\Users\\sauer\\Desktop\\Baxter VR\\Assets\\Oculus\\VR\\Scripts\\OVRRuntimeSettings.cs",
+              "RelativeToolTip": "Assets\\Oculus\\VR\\Scripts\\OVRRuntimeSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:02:59.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OVRRuntimeSettingsBuildProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\sauer\\Desktop\\Baxter VR\\Assets\\Oculus\\VR\\Editor\\Settings\\OVRRuntimeSettingsBuildProcessor.cs",
+              "RelativeDocumentMoniker": "Assets\\Oculus\\VR\\Editor\\Settings\\OVRRuntimeSettingsBuildProcessor.cs",
+              "ToolTip": "C:\\Users\\sauer\\Desktop\\Baxter VR\\Assets\\Oculus\\VR\\Editor\\Settings\\OVRRuntimeSettingsBuildProcessor.cs",
+              "RelativeToolTip": "Assets\\Oculus\\VR\\Editor\\Settings\\OVRRuntimeSettingsBuildProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:02:42.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OVRTelemetry.cs",
+              "DocumentMoniker": "C:\\Users\\sauer\\Desktop\\Baxter VR\\Assets\\Oculus\\VR\\Scripts\\OVRTelemetry\\OVRTelemetry.cs",
+              "RelativeDocumentMoniker": "Assets\\Oculus\\VR\\Scripts\\OVRTelemetry\\OVRTelemetry.cs",
+              "ToolTip": "C:\\Users\\sauer\\Desktop\\Baxter VR\\Assets\\Oculus\\VR\\Scripts\\OVRTelemetry\\OVRTelemetry.cs",
+              "RelativeToolTip": "Assets\\Oculus\\VR\\Scripts\\OVRTelemetry\\OVRTelemetry.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T23:55:12.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OVRManager.cs",
+              "DocumentMoniker": "C:\\Users\\sauer\\Desktop\\Baxter VR\\Assets\\Oculus\\VR\\Scripts\\OVRManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Oculus\\VR\\Scripts\\OVRManager.cs",
+              "ToolTip": "C:\\Users\\sauer\\Desktop\\Baxter VR\\Assets\\Oculus\\VR\\Scripts\\OVRManager.cs",
+              "RelativeToolTip": "Assets\\Oculus\\VR\\Scripts\\OVRManager.cs",
+              "ViewState": "AgIAAIMIAAAAAAAAAABRwIYIAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T23:53:43.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Grabber.cs",
+              "DocumentMoniker": "C:\\Users\\sauer\\Desktop\\Baxter VR\\Assets\\Scripts\\Grabber.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Grabber.cs",
+              "ToolTip": "C:\\Users\\sauer\\Desktop\\Baxter VR\\Assets\\Scripts\\Grabber.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Grabber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T23:46:54.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
